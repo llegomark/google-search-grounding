@@ -1,0 +1,70 @@
+Research Results
+================
+
+Topic: who owns the west philippine sea?
+Timestamp (Manila, GMT+8): 2025-02-11 09:37 PM
+Model: gemini-2.0-flash
+End Reason: normal
+
+Conversation History:
+-------------------
+
+[2025-02-11 01:37:34 PM UTC] User:
+----------------------------------
+USE GOOGLE SEARCH: who owns the west philippine sea?
+
+                Current Date and Time (Manila, GMT+8): 2025-02-11 09:37 PM
+
+                Instructions:
+                **1. YOU MUST USE GOOGLE SEARCH to find accurate and up-to-date information.**
+                2. For each search result used, include:
+                - The source title and URL
+                - Publication date when available
+                - Brief summary of relevant information
+                3. Focus on:
+                - Recent and reliable sources
+                - Verified information
+                - Multiple perspectives when relevant
+                4. Structure the response with:
+                - Main findings
+                - Supporting details
+                - Sources used
+                5. Maintain accuracy while being concise
+
+                Please provide a comprehensive but clear overview of the topic, **making sure to use Google Search as instructed.**
+
+[2025-02-11 01:37:34 PM UTC] Assistant:
+---------------------------------------
+The question of who "owns" the West Philippine Sea is complex and contested. Here's a breakdown:
+
+**Main Findings:**
+
+*   The Philippines asserts sovereign rights over the West Philippine Sea, which it defines as the parts of the South China Sea within its exclusive economic zone (EEZ).
+*   A 2016 international arbitral ruling affirmed the Philippines' sovereign rights within its EEZ, rejecting China's expansive claims.
+*   China claims nearly the entire South China Sea, including the West Philippine Sea, leading to ongoing disputes and tensions.
+
+**Supporting Details:**
+
+*   **Definition:** The West Philippine Sea is the official designation used by the Philippines to refer to the areas of the South China Sea within its EEZ (Inquirer.net, Wikipedia). This includes the Luzon Sea and the waters around the Kalayaan Island Group (Spratly Islands) and Bajo de Masinloc (Scarborough Shoal) (Google Sites).
+*   **Basis of the Philippine Claim:**
+    *   The Philippines' claim is based on the United Nations Convention on the Law of the Sea (UNCLOS), which grants coastal states sovereign rights over their EEZs, extending 200 nautical miles from their baselines (IBP).
+    *   In 2016, the Permanent Court of Arbitration ruled in favor of the Philippines, confirming its sovereign rights within its EEZ in the West Philippine Sea (IBP, Inquirer.net). The court rejected China's "nine-dash line" claim, which encompassed nearly the entire South China Sea (Inquirer.net).
+*   **China's Claim:** China asserts a historical claim to nearly the entire South China Sea, including areas within the Philippines' EEZ (Cfr.org). This claim is based on the "nine-dash line," which has been rejected by the international arbitral tribunal (Inquirer.net).
+*   **Ongoing Disputes:** China's actions in the West Philippine Sea, such as harassment of Philippine vessels and construction of artificial islands, have led to increased tensions (Cfr.org).
+*   **Philippine Response:** The Philippines continues to assert its sovereign rights in the West Philippine Sea, upholding the 2016 arbitral ruling (Inquirer.net).
+
+**Sources Used:**
+
+*   IBP Statement on the West Philippine Sea ([https://ibp.ph](https://ibp.ph))
+*   West Philippine Sea updates - Inquirer.net ([https://inquirer.net](https://inquirer.net))
+*   Territorial Disputes in the South China Sea | Global Conflict Tracker ([https://cfr.org](https://cfr.org))
+*   West Philippine Sea - Wikipedia ([https://wikipedia.org](https://wikipedia.org))
+*   West Philippine Sea or South China Sea? - Google Sites ([https://sites.google.com](https://sites.google.com))
+
+
+Search Information:
+Search Used: True
+
+Searches Performed:
+
+Sources Used:

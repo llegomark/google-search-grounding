@@ -1,0 +1,68 @@
+Research Results
+================
+
+Topic: Jensen Huang
+Timestamp (Manila, GMT+8): 2025-02-11 09:37 PM
+Model: gemini-2.0-flash
+End Reason: normal
+
+Conversation History:
+-------------------
+
+[2025-02-11 01:37:09 PM UTC] User:
+----------------------------------
+USE GOOGLE SEARCH: Jensen Huang
+
+                Current Date and Time (Manila, GMT+8): 2025-02-11 09:36 PM
+
+                Instructions:
+                **1. YOU MUST USE GOOGLE SEARCH to find accurate and up-to-date information.**
+                2. For each search result used, include:
+                - The source title and URL
+                - Publication date when available
+                - Brief summary of relevant information
+                3. Focus on:
+                - Recent and reliable sources
+                - Verified information
+                - Multiple perspectives when relevant
+                4. Structure the response with:
+                - Main findings
+                - Supporting details
+                - Sources used
+                5. Maintain accuracy while being concise
+
+                Please provide a comprehensive but clear overview of the topic, **making sure to use Google Search as instructed.**
+
+[2025-02-11 01:37:09 PM UTC] Assistant:
+---------------------------------------
+Okay, I will provide a comprehensive overview of Jensen Huang using Google Search as instructed.
+
+Main Findings:
+
+*   Jensen Huang is the co-founder, president, and CEO of NVIDIA Corporation, a leading semiconductor company.
+*   He was born in Taiwan on February 17, 1963, and later moved to the United States.
+*   Huang founded NVIDIA in 1993, pioneering accelerated computing and inventing the GPU in 1999.
+*   Under his leadership, NVIDIA's GPUs have become dominant in computer gaming and artificial intelligence, driving the company's market cap past $3 trillion in 2024.
+
+Supporting Details:
+
+*   **Early Life and Education:** Born in Tainan, Taiwan, Huang's family moved to Thailand when he was five. He and his brother were later sent to the U.S. He attended Oregon State University and later earned a master's degree in electrical engineering from Stanford University.
+*   **NVIDIA's Rise:** NVIDIA has become a central player in the AI boom under Huang's guidance. The company's invention of the GPU sparked the growth of the PC gaming market and redefined computer graphics.
+*   **Achievements and Recognition:** Huang was named Fortune's Businessperson of the Year in 2017. In 2019, Harvard Business Review ranked him No. 1 on its list of the world's 100 best-performing CEOs.
+*   **Philanthropy:** Huang has donated $30 million to Stanford for an engineering center and $50 million to Oregon State University for a research center named after him.
+
+Sources:
+
+*   Britannica Money: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUBnsYsiZS7TGoBwM5iPIUbSGSuJgVz0CZBF3KJHOBsUIyfeZ7tyhFZt\_jz3i6RZzncTNMzuTXyHL94WhX6paXRKM3qHMCY3v8\_01cIU2F1UV\_xB738oHBaU7tL2dZ2U22DIsPQ3\_iS9fQFqkQ==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUBnsYsiZS7TGoBwM5iPIUbSGSuJgVz0CZBF3KJHOBsUIyfeZ7tyhFZt_jz3i6RZzncTNMzuTXyHL94WhX6paXRKM3qHMCY3v8_01cIU2F1UV_xB738oHBaU7tL2dZ2U22DIsPQ3_iS9fQFqkQ==)
+*   Carnegie Corporation of New York: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUBnsYt8N7k8Kzl\_unbpjmVC4iE4d7OvQ55\_xv4KDEW7JCJYZgHKbcVF5bGibaCquj41lzqOsYzp5qWzBX\_G\_SIfDOZxjRLYBRQUqYT0tuIqEBtDqbjGCzc9vMIndBFQPBHr7nWpPQQA3fyKNwxD9B7-bRw-](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUBnsYt8N7k8Kzl_unbpjmVC4iE4d7OvQ55_xv4KDEW7JCJYZgHKbcVF5bGibaCquj41lzqOsYzp5qWzBX_G_SIfDOZxjRLYBRQUqYT0tuIqEBtDqbjGCzc9vMIndBFQPBHr7nWpPQQA3fyKNwxD9B7-bRw-)
+*   NVIDIA: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUBnsYuXxVybKklvaFvbBkU1sjOUQZiIBmHiHYKjPM\_JV706h8Rq-J0hewDbTAo1aPgrl7K-jTgtzn6rzNLI5IJOAs629ZX02RYiXndVjM-j-zoO7pwKawrMYdPgOBkYLsesejcRgXb3sZ4eKBgY](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUBnsYuXxVybKklvaFvbBkU1sjOUQZiIBmHiHYKjPM_JV706h8Rq-J0hewDbTAo1aPgrl7K-jTgtzn6rzNLI5IJOAs629ZX02RYiXndVjM-j-zoO7pwKawrMYdPgOBkYLsesejcRgXb3sZ4eKBgY)
+*   NVIDIA: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUBnsYuP8MyzePp9uEMfZVniKsAeeEzYx6Dspe3L7D\_yua1ibDR9JMpnSmJGjzrxxA6izQ8um-JImdA4J7L46qdbBsV3W\_LpLacslCzmjkqFHMBilEAHIjsB-QKyN5QH1YFcHE1VSBTlc3ooUPtmI0L0BeUOJI9aSSNmD9WmujtpcediLTAf4ENQ](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUBnsYuP8MyzePp9uEMfZVniKsAeeEzYx6Dspe3L7D_yua1ibDR9JMpnSmJGjzrxxA6izQ8um-JImdA4J7L46qdbBsV3W_LpLacslCzmjkqFHMBilEAHIjsB-QKyN5QH1YFcHE1VSBTlc3ooUPtmI0L0BeUOJI9aSSNmD9WmujtpcediLTAf4ENQ)
+*   Forbes: [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUBnsYubEiIL5OjO0muICcA6ruyOhBxg4ElMTKeNxVwS6YDJSq2aANhpihwkANGCdOLq1qfYeriMZXnETYs9BZSDRU2Rvo7iw3JXOGFPrpm9vXzsb\_eoQbGBgNDB1TfqDl\_XkiBph0hbx\_3D](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUBnsYubEiIL5OjO0muICcA6ruyOhBxg4ElMTKeNxVwS6YDJSq2aANhpihwkANGCdOLq1qfYeriMZXnETYs9BZSDRU2Rvo7iw3JXOGFPrpm9vXzsb_eoQbGBgNDB1TfqDl_XkiBph0hbx_3D)
+
+
+Search Information:
+Search Used: True
+
+Searches Performed:
+
+Sources Used:

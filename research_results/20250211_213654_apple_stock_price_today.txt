@@ -1,0 +1,64 @@
+Research Results
+================
+
+Topic: apple stock price today
+Timestamp (Manila, GMT+8): 2025-02-11 09:36 PM
+Model: gemini-2.0-flash
+End Reason: normal
+
+Conversation History:
+-------------------
+
+[2025-02-11 01:36:11 PM UTC] User:
+----------------------------------
+USE GOOGLE SEARCH: apple stock price today
+
+                Current Date and Time (Manila, GMT+8): 2025-02-11 09:36 PM
+
+                Instructions:
+                **1. YOU MUST USE GOOGLE SEARCH to find accurate and up-to-date information.**
+                2. For each search result used, include:
+                - The source title and URL
+                - Publication date when available
+                - Brief summary of relevant information
+                3. Focus on:
+                - Recent and reliable sources
+                - Verified information
+                - Multiple perspectives when relevant
+                4. Structure the response with:
+                - Main findings
+                - Supporting details
+                - Sources used
+                5. Maintain accuracy while being concise
+
+                Please provide a comprehensive but clear overview of the topic, **making sure to use Google Search as instructed.**
+
+[2025-02-11 01:36:11 PM UTC] Assistant:
+---------------------------------------
+As of February 11, 2025, at 9:36 PM Manila time (GMT+8), the Apple Inc. (AAPL) stock price is approximately $227.65.
+
+Here's a summary of details:
+
+*   **Current Price:** $227.65 (USD).
+*   **Recent Change:** Increased by 0.98% in the last 24 hours.
+*   **Market Capitalization:** $3.42T.
+*   **P/E Ratio:** 36.13.
+*   **Dividend Yield:** 0.43%.
+*   **Day's Range:** The stock reached a high of $233.77 and a low of $227.40 during the day.
+*   **52-Week Range:** $164.08 to $260.10.
+
+**Sources:**
+
+*   \[1] TradingView - Apple Inc
+*   \[2] eToro - Apple (AAPL) Stock Price, News & Analyst Forecast
+*   \[3] INDmoney - Apple Share Price (NASDAQ: AAPL)
+*   \[4] Investing.com India - Apple Share Price Today | NASDAQ: AAPL Stock
+*   \[5] Robinhood - Buy or Sell Apple Stock - AAPL Stock Price Quote & News
+
+
+Search Information:
+Search Used: True
+
+Searches Performed:
+
+Sources Used:
