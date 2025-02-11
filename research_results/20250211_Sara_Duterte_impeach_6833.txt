@@ -1,0 +1,35 @@
+Research Results
+=================
+
+Metadata:
+{
+  "topic": "Sara Duterte impeachment trial when?",
+  "content": "Okay, I can definitely help you find out what's happening with a potential impeachment trial for Sara Duterte. As of today, February 11, 2025, here\u2019s what I can dig up:\n\n[Search: Sara Duterte impeachment trial]\nOkay, here\u2019s the rundown on the Sara Duterte impeachment situation:\n\n*   **What's Happening:** As of today, February 11, 2025, it's a pretty big deal. Four impeachment complaints have been formally filed against Vice President Sara Duterte. On February 5, 2025, the House of Representatives approved the measure, meaning it's heading to the Senate for a trial.\n\n*   **When is the Trial?** Senate President Francis Escudero has stated that the impeachment trial will likely begin after President Marcos' State of the Nation Address (SONA) on July 21.\n\n*   **Why Impeachment?** She's facing a range of accusations. These reportedly include plotting to assassinate President Marcos, large-scale corruption, and a failure to strongly denounce China's actions against Filipino forces in the South China Sea.\n\n*   **Duterte's Response:** VP Duterte is denying any wrongdoing, calling the impeachment attempts a political vendetta.\n\n*   **Why This Matters:** This is a major event in Philippine politics. If the impeachment succeeds, Sara Duterte would be removed from office and disqualified from holding any future government positions. She would be the second-highest official in the Philippines to face such a trial.\n\n*   **Expert Opinions:** It's worth noting that the Senate will act as jurors, and the trial could be quite contentious. Some are pointing to a previous impeachment trial in 2001 that led to massive protests and the president stepping down, so there's a lot of pressure to handle this fairly.\n\n*   **What Might Happen Next:** The Senate trial will be a key event to watch. The proceedings could be lengthy and politically charged, and the outcome will significantly impact the country's political landscape.\n",
+  "timestamp": "2025-02-11 18:58:06",
+  "model": "gemini-2.0-flash",
+  "search_verification": {
+    "explicit_tags": true,
+    "recent_references": true
+  }
+}
+
+Results:
+Okay, I can definitely help you find out what's happening with a potential impeachment trial for Sara Duterte. As of today, February 11, 2025, here’s what I can dig up:
+
+[Search: Sara Duterte impeachment trial]
+Okay, here’s the rundown on the Sara Duterte impeachment situation:
+
+*   **What's Happening:** As of today, February 11, 2025, it's a pretty big deal. Four impeachment complaints have been formally filed against Vice President Sara Duterte. On February 5, 2025, the House of Representatives approved the measure, meaning it's heading to the Senate for a trial.
+
+*   **When is the Trial?** Senate President Francis Escudero has stated that the impeachment trial will likely begin after President Marcos' State of the Nation Address (SONA) on July 21.
+
+*   **Why Impeachment?** She's facing a range of accusations. These reportedly include plotting to assassinate President Marcos, large-scale corruption, and a failure to strongly denounce China's actions against Filipino forces in the South China Sea.
+
+*   **Duterte's Response:** VP Duterte is denying any wrongdoing, calling the impeachment attempts a political vendetta.
+
+*   **Why This Matters:** This is a major event in Philippine politics. If the impeachment succeeds, Sara Duterte would be removed from office and disqualified from holding any future government positions. She would be the second-highest official in the Philippines to face such a trial.
+
+*   **Expert Opinions:** It's worth noting that the Senate will act as jurors, and the trial could be quite contentious. Some are pointing to a previous impeachment trial in 2001 that led to massive protests and the president stepping down, so there's a lot of pressure to handle this fairly.
+
+*   **What Might Happen Next:** The Senate trial will be a key event to watch. The proceedings could be lengthy and politically charged, and the outcome will significantly impact the country's political landscape.
+
